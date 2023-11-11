@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Image Storing</string>
+    <string name="store_image_to_firebase_storage">Store image to Firebase Storage</string>
+    <string name="todo">TODO</string>
+    <string name="select_image">Select Image</string>
+    <string name="upload_image">Upload Image</string>
+</resources>

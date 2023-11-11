@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958130296425",
+    "project_id": "image-storing-c1df8",
+    "storage_bucket": "image-storing-c1df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958130296425:android:1b3cb47de20e5afa6c34f8",
+        "android_client_info": {
+          "package_name": "com.example.imagestoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8YnTcX2A2YHaHr7ksvPnbgP6ghYGntW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
